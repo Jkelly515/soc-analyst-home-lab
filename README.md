@@ -1,8 +1,6 @@
-SOC Analyst Home Lab
+These are the ISO files required for each of the 3 VMs, as well as the install file for Oracle VirtualBox and the Splunk Universal Forwarder
 
-**Get everything in this repo at once:** click the green **Code** button above → **Download ZIP**.
-
-Required Downloads (official sources)
+Required Downloads:
 
 | Software                         | Version Used                                                                      | Official Download 
 |----------------------------------|-----------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -12,3 +10,4 @@ Required Downloads (official sources)
 | Windows Server 2022 (Evaluation) | `SERVER_EVAL_x64FRE_en-us.iso`                                                    | [microsoft.com/en-us/evalcenter/evaluate-windows-server-2022](https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2022) 
 | Splunk Universal Forwarder       | 10.4.2 (`splunkforwarder-10.4.2-33c3bf42cd73-windows-x64.msi`)                    | [splunk.com/en_us/download/universal-forwarder.html](https://www.splunk.com/en_us/download/universal-forwarder.html) 
 
+**Get everything in this repo at once:** click the green **Code** button above → **Download ZIP**.
