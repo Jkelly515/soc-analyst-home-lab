@@ -11,3 +11,5 @@ Required Downloads:
 | Splunk Universal Forwarder       | 10.4.2 [64-bit] (`splunkforwarder-10.4.2-33c3bf42cd73-windows-x64.msi`)                    | [splunk.com/en_us/download/universal-forwarder.html](https://www.splunk.com/en_us/download/universal-forwarder.html) (Enter your email under 'Start your free trial' and create an account)
 
 **Get everything in this repo at once:** click the green **Code** button above → **Download ZIP**.
+
+Also make sure to download domain-simulator.ps1 — it's listed in the file list at the top of this repo (alongside this README) and is required to complete the lab. Click the filename to open it, then use the Download raw file button, or grab it along with everything else in the ZIP below.
